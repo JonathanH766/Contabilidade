@@ -745,7 +745,7 @@ address {
 }
 
 .page .text-primary {
-	color: #2f3a50 !important;
+	color: #be9051 !important;
 }
 
 .page a.text-primary:focus, .page a.text-primary:hover {
@@ -1005,9 +1005,9 @@ html .button-primary-outline .badge {
 }
 
 html .button-primary-outline-v2, html .button-primary-outline-v2:active, html .button-primary-outline-v2.active, html .button-primary-outline-v2:active:focus, html .button-primary-outline-v2.active:focus, html .button-primary-outline-v2:focus:active, html .button-primary-outline-v2:focus {
-	color: #f4f5ef;
-	background-color: transparent;
-	border-color: #2f3a50;
+	color: #f4f5ef;   /* comentei */
+	/*background-color: transparent;*/   
+	/*border-color: #2f3a50;*/
 }
 
 .open > html .button-primary-outline-v2.dropdown-toggle, html .button-primary-outline-v2:hover {
