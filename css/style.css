@@ -982,9 +982,9 @@ html .button-primary .badge {
 }
 
 html .button-primary-outline, html .button-primary-outline:active, html .button-primary-outline.active, html .button-primary-outline:active:focus, html .button-primary-outline.active:focus, html .button-primary-outline:focus:active, html .button-primary-outline:focus {
-	color: #2f3a50;
+	color: #ffffff;
 	background-color: transparent;
-	border-color: #2f3a50;
+	border-color: #ffffff;
 }
 
 .open > html .button-primary-outline.dropdown-toggle, html .button-primary-outline:hover {
@@ -1106,7 +1106,7 @@ html .button-silver-outline .badge {
 }
 
 .page .icon-primary {
-	color: #ffffff;
+	color: #000000;
 }
 
 .page .icon-storm-gray {
@@ -1158,7 +1158,7 @@ html .button-silver-outline .badge {
 }
 
 .page a.icon-nobel-filled, .page a.icon-nobel-filled:active, .page a.icon-nobel-filled:focus {
-	color: #f4f5ef;
+	color: #2f3a50;
 	background: #ffffff;
 }
 
@@ -5753,7 +5753,7 @@ p + .slick-slider {
 }
 
 .page .link-white-v2, .page .link-white-v2:active, .page .link-white-v2:focus {
-	color: #f4f5ef;
+	color: #ffffff;
 }
 
 .page .link-white-v2:hover {
@@ -5794,7 +5794,7 @@ p + .slick-slider {
 }
 
 .page .link-gray-dark-filled:hover {
-	color: #f4f5ef;
+	color: #ffffff;
 	background: #ffffff;
 }
 
@@ -10586,10 +10586,11 @@ html:not(.lt-ie10) .not-animated {
 
 /*
 * Navbar components
+TOPO DE CIMA 
 */
 .rd-navbar {
 	display: none;
-	background: #f4f5ef;
+	background: #32394C;
 	box-shadow: none;
 }
 
@@ -10729,7 +10730,7 @@ html:not(.lt-ie10) .not-animated {
 	padding: 5px 0;
 	font-size: 13px;
 	line-height: 1.2;
-	color: #00030a;
+	color: #ffffff;
 	background: transparent;
 }
 
@@ -10737,13 +10738,13 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-static .rd-navbar-nav > li > a > a:hover,
 .rd-navbar-fullwidth .rd-navbar-nav > li > a.focus > a,
 .rd-navbar-fullwidth .rd-navbar-nav > li > a > a:hover {
-	color: #2f3a50;
+	color: #ffffff;
 	background: transparent;
 }
 
 .rd-navbar-static .rd-navbar-nav > li > a.active > a,
 .rd-navbar-fullwidth .rd-navbar-nav > li > a.active > a {
-	color: #2f3a50;
+	color: #ffffff;
 	background: transparent;
 }
 
@@ -11173,12 +11174,13 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-static.rd-navbar--is-stuck, .rd-navbar-static.rd-navbar--is-clone,
 .rd-navbar-fullwidth.rd-navbar--is-stuck,
 .rd-navbar-fullwidth.rd-navbar--is-clone {
+	/*TOPO DE CIMA */
 	position: fixed;
 	left: 0;
 	top: 0;
 	right: 0;
 	z-index: 999;
-	background: #f4f5ef;
+	background: #32394C;
 }
 
 .rd-navbar-static.rd-navbar--is-stuck .rd-navbar-megamenu, .rd-navbar-static.rd-navbar--is-clone .rd-navbar-megamenu,
@@ -11344,7 +11346,7 @@ html:not(.lt-ie10) .not-animated {
 	top: 0;
 	right: 0;
 	padding: 4px;
-	height: 65px;
+	height: 80px;
 	color: #32394C;
 	z-index: 999;
 }
@@ -11374,7 +11376,7 @@ html:not(.lt-ie10) .not-animated {
 	width: 270px;
 	padding: 112px 0 56px;
 	color: #f4f5ef;
-	background: #f4f5ef;
+	background: #ededed;
 	border-right: 1px solid #32394C;
 	overflow-x: hidden;
 	overflow-y: auto;
@@ -11441,7 +11443,7 @@ html:not(.lt-ie10) .not-animated {
 
 .rd-navbar-fixed .rd-navbar-nav li:hover > a, .rd-navbar-fixed .rd-navbar-nav li:hover > a:hover, .rd-navbar-fixed .rd-navbar-nav li.focus > a, .rd-navbar-fixed .rd-navbar-nav li.focus > a:hover, .rd-navbar-fixed .rd-navbar-nav li.active > a, .rd-navbar-fixed .rd-navbar-nav li.active > a:hover, .rd-navbar-fixed .rd-navbar-nav li.opened > a, .rd-navbar-fixed .rd-navbar-nav li.opened > a:hover {
 	color: #f4f5ef;
-	background: #b49465;
+	background: #32394C;
 }
 
 .rd-navbar-fixed .rd-navbar-nav li:hover > .rd-navbar-submenu-toggle::after, .rd-navbar-fixed .rd-navbar-nav li.focus > .rd-navbar-submenu-toggle::after, .rd-navbar-fixed .rd-navbar-nav li.active > .rd-navbar-submenu-toggle::after, .rd-navbar-fixed .rd-navbar-nav li.opened > .rd-navbar-submenu-toggle::after {
@@ -11847,8 +11849,8 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .rd-navbar-default.rd-navbar-fixed .rd-navbar-aside-content {
-	border: 1px solid #e5e7e9;
-	background: #f4f5ef;
+	border: 1px solid #32394C;
+	background: #32394C;
 }
 
 .rd-navbar-default.rd-navbar-fixed .rd-navbar-aside .list-units > li + li {
