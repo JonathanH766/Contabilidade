@@ -76,7 +76,7 @@ body {
 .page-head {
 	position: relative;
 	z-index: 1080;
-	background-color: #32394C;
+	background-color: #f4f5ef;
 }
 
 /*
@@ -1106,7 +1106,7 @@ html .button-silver-outline .badge {
 }
 
 .page .icon-primary {
-	color: #ffffff;
+	color: #2f3a50;
 }
 
 .page .icon-storm-gray {
@@ -1159,12 +1159,12 @@ html .button-silver-outline .badge {
 
 .page a.icon-nobel-filled, .page a.icon-nobel-filled:active, .page a.icon-nobel-filled:focus {
 	color: #f4f5ef;
-	background: #ffffff;
+	background: #b4b4b4;
 }
 
 .page a.icon-nobel-filled:hover {
 	color: #f4f5ef;
-	background: #ffffff;
+	background: #2f3a50;
 }
 
 .page .icon-xxs {
@@ -5765,19 +5765,19 @@ p + .slick-slider {
 }
 
 .page .link-white-03:hover {
-	color: #ffffff;
+	color: #2f3a50;
 }
 
 .page .link-dusty-gray, .page .link-dusty-gray:active, .page .link-dusty-gray:focus {
-	color: #ffffff;
+	color: #9b9b9b;
 }
 
 .page .link-dusty-gray:hover {
-	color: #ffffff;
+	color: #2f3a50;
 }
 
 .page .link-black-v2, .page .link-black-v2:active, .page .link-black-v2:focus {
-	color: rgba(255, 255, 255, 0.6);
+	color: rgba(0, 0, 0, 0.6);
 }
 
 .page .link-black-v2:hover {
@@ -5795,7 +5795,7 @@ p + .slick-slider {
 
 .page .link-gray-dark-filled:hover {
 	color: #f4f5ef;
-	background: #ffffff;
+	background: #2f3a50;
 }
 
 .page .link-shop {
@@ -10628,7 +10628,7 @@ html:not(.lt-ie10) .not-animated {
 .rd-navbar-toggle span:after, .rd-navbar-toggle span:before, .rd-navbar-toggle span {
 	width: 24px;
 	height: 4px;
-	background-color: #ffffff;
+	background-color: #000;
 	backface-visibility: hidden;
 	border-radius: 2px;
 }
@@ -11357,8 +11357,8 @@ html:not(.lt-ie10) .not-animated {
 	bottom: 0;
 	right: 0;
 	box-shadow: none;
-	border-bottom: 1px solid #32394C;
-	background: #32394C;
+	border-bottom: 1px solid #e5e7e9;
+	background: #f4f5ef;
 }
 
 .rd-navbar-fixed .rd-navbar-toggle {
@@ -11622,7 +11622,7 @@ html:not(.lt-ie10) .not-animated {
 	height: 6px;
 	line-height: 6px;
 	text-align: center;
-	background: #ffffff;
+	background: #000;
 	left: 50%;
 	margin-left: -3px;
 	border-radius: 50%;
